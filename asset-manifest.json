@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/Contact-Manager-with-fake-rest-API-/static/css/main.36497136.chunk.css",
-    "main.js": "/github.io/Contact-Manager-with-fake-rest-API-/static/js/main.a810ca5f.chunk.js",
-    "main.js.map": "/github.io/Contact-Manager-with-fake-rest-API-/static/js/main.a810ca5f.chunk.js.map",
-    "runtime-main.js": "/github.io/Contact-Manager-with-fake-rest-API-/static/js/runtime-main.82a9cfd5.js",
-    "runtime-main.js.map": "/github.io/Contact-Manager-with-fake-rest-API-/static/js/runtime-main.82a9cfd5.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/github.io/Contact-Manager-with-fake-rest-API-/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.bc489580.chunk.js": "/github.io/Contact-Manager-with-fake-rest-API-/static/js/2.bc489580.chunk.js",
-    "static/js/2.bc489580.chunk.js.map": "/github.io/Contact-Manager-with-fake-rest-API-/static/js/2.bc489580.chunk.js.map",
-    "index.html": "/github.io/Contact-Manager-with-fake-rest-API-/index.html",
-    "precache-manifest.bb076bd2aec6fddc6b346cfd90b5da1e.js": "/github.io/Contact-Manager-with-fake-rest-API-/precache-manifest.bb076bd2aec6fddc6b346cfd90b5da1e.js",
-    "service-worker.js": "/github.io/Contact-Manager-with-fake-rest-API-/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/github.io/Contact-Manager-with-fake-rest-API-/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/github.io/Contact-Manager-with-fake-rest-API-/static/css/main.36497136.chunk.css.map",
-    "static/js/2.bc489580.chunk.js.LICENSE.txt": "/github.io/Contact-Manager-with-fake-rest-API-/static/js/2.bc489580.chunk.js.LICENSE.txt"
+    "main.css": "/Contact-Manager-with-fake-rest-API-/static/css/main.36497136.chunk.css",
+    "main.js": "/Contact-Manager-with-fake-rest-API-/static/js/main.f12cf116.chunk.js",
+    "main.js.map": "/Contact-Manager-with-fake-rest-API-/static/js/main.f12cf116.chunk.js.map",
+    "runtime-main.js": "/Contact-Manager-with-fake-rest-API-/static/js/runtime-main.0e217d2b.js",
+    "runtime-main.js.map": "/Contact-Manager-with-fake-rest-API-/static/js/runtime-main.0e217d2b.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Contact-Manager-with-fake-rest-API-/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bc489580.chunk.js": "/Contact-Manager-with-fake-rest-API-/static/js/2.bc489580.chunk.js",
+    "static/js/2.bc489580.chunk.js.map": "/Contact-Manager-with-fake-rest-API-/static/js/2.bc489580.chunk.js.map",
+    "index.html": "/Contact-Manager-with-fake-rest-API-/index.html",
+    "precache-manifest.eac16c6779b8942d90bb1a4a0ea70004.js": "/Contact-Manager-with-fake-rest-API-/precache-manifest.eac16c6779b8942d90bb1a4a0ea70004.js",
+    "service-worker.js": "/Contact-Manager-with-fake-rest-API-/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Contact-Manager-with-fake-rest-API-/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/Contact-Manager-with-fake-rest-API-/static/css/main.36497136.chunk.css.map",
+    "static/js/2.bc489580.chunk.js.LICENSE.txt": "/Contact-Manager-with-fake-rest-API-/static/js/2.bc489580.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82a9cfd5.js",
+    "static/js/runtime-main.0e217d2b.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.bc489580.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.a810ca5f.chunk.js"
+    "static/js/main.f12cf116.chunk.js"
   ]
 }
